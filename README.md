@@ -20,7 +20,7 @@ The application uses a **Machine Learning model** to analyze the provided inform
 * 📊 Personalized cognitive resilience score
 * 🤖 Machine Learning-based prediction
 * 🌐 Interactive web interface
-* ☁️ Deployed on Microsoft Azure
+  
 
 ---
 
